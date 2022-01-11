@@ -1,3 +1,3 @@
-# My Game is Cool!
+# java basics for mwah
 
-Make sure you give it a good description here...
+REMEMBER HOW TO DO JAVA SCRIPT BEATCH!!!!
